@@ -1,0 +1,15 @@
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\bin\Debug\netcoreapp3.1\hsmkns.exe
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\bin\Debug\netcoreapp3.1\hsmkns.deps.json
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\bin\Debug\netcoreapp3.1\hsmkns.runtimeconfig.json
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\bin\Debug\netcoreapp3.1\hsmkns.runtimeconfig.dev.json
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\bin\Debug\netcoreapp3.1\hsmkns.dll
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\bin\Debug\netcoreapp3.1\hsmkns.pdb
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\obj\Debug\netcoreapp3.1\hsmkns.csprojAssemblyReference.cache
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\obj\Debug\netcoreapp3.1\hsmkns.Form1.resources
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\obj\Debug\netcoreapp3.1\hsmkns.csproj.GenerateResource.cache
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\obj\Debug\netcoreapp3.1\hsmkns.AssemblyInfoInputs.cache
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\obj\Debug\netcoreapp3.1\hsmkns.AssemblyInfo.cs
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\obj\Debug\netcoreapp3.1\hsmkns.csproj.CoreCompileInputs.cache
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\obj\Debug\netcoreapp3.1\hsmkns.dll
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\obj\Debug\netcoreapp3.1\hsmkns.pdb
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\hsmkns\hsmkns\obj\Debug\netcoreapp3.1\hsmkns.genruntimeconfig.cache
